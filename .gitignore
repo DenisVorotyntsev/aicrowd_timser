@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 .idea
+data/external/*.csv
+data/**/*.csv
+.DS_Store
+aicrowd_timser/

@@ -1,4 +1,5 @@
 # Data 
 
-Provide information on data in folders, where to get, date of updated and so on. 
+Download train and validation data: 
+[link](https://www.aicrowd.com/challenges/ai-blitz-5/problems/timser/dataset_files)
 

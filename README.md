@@ -4,18 +4,10 @@ Simple template for new projects
 # Create a Local Environment 
 
 ```python
-python3.7 -m virtualenv ENV_NAME
-source ENV_NAME/bin/activate
+python3 -m virtualenv aicrowd_timser
+source aicrowd_timser/bin/activate
 pip install -r requirements.txt
 ```
-
-
-# Requirements 
-
-```python
-pip freeze > requirements.txt 
-```
-
 
 # Pre-commit hooks 
 
